@@ -240,6 +240,11 @@ footer#rodape p {
     text-align: center;
 }
 
-div#video-conteudo video, #videos-noticias video {
+div#video-conteudo video {
+    width: 100%;
+}
+
+
+#videos-noticias video {
     width: 100%;
 }
